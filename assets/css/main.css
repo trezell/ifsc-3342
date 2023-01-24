@@ -1,0 +1,15 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+h1 {
+    text-align: center;
+    color:blueviolet;
+    background-color: aqua;
+}
+#nav ul li{
+    list-style: none;
+    margin:auto;
+    text-align: center;
+
+}
