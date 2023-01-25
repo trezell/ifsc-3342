@@ -2,13 +2,30 @@
 	margin: 0px;
 	padding: 0px;
 }
+body{
+    max-width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: left;
+	background-color: #FFF;
+	margin-top: 20px;
+}
 h1 {
     text-align: center;
-    color:blueviolet;
-    background-color: aqua;
+    color:rgb(52, 8, 94);
+    display: block;
+	width:800px;
+	height:140px;
+	background-image: url("../img/headerimg.jpg");
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+}
+#nav{
+    background-color: rgb(116, 116, 231);
 }
 #nav ul li{
-    list-style: none;
+    list-style-type: square;
     margin:auto;
     text-align: center;
 
